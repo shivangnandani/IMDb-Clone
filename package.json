@@ -1,7 +1,7 @@
 {
+  "homepage": "https://shivangnandani.github.io/IMDb-Clone",
   "name": "IMDb-Clone",
   "private": true,
-  "homepage": "https://shivangnandani.github.io/IMDb-Clone",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
